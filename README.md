@@ -5,6 +5,7 @@
 - Questions: 125
 - Time: 4 hours
 - Pass: > 70%
+- Validity: 3 years
 - Where: Person VUE
 
 ## Referenses
